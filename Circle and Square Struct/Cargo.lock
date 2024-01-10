@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "tutorial_"
+name = "Circle and Square Struct"
 version = "0.1.0"
