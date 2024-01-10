@@ -5,3 +5,4 @@ To make these programs i used some guides from different people so sources will 
 
 ## Sources
 - Guess the number [Barron Stone](https://www.linkedin.com/learning/rust-essential-training)
+- Text file search [Barron Stone](https://www.linkedin.com/learning/rust-essential-training)
