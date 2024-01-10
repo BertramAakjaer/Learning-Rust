@@ -10,7 +10,7 @@ fn main() {
     while not_guessed {
         let mut buffer: String = String::new();
         println!("Guess a number between 1 and 100:");
-        io::stdin().read_line(&mut buffer);
+        let _ = io::stdin().read_line(&mut buffer);
 
         current_guess = buffer.trim().parse::<i32>().unwrap();
 
